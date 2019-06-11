@@ -20,6 +20,8 @@
         <module>node04-boot-task</module>
         <!-- SpringBoot 2.0 拦截器配置 -->
         <module>node05-boot-intercept</module>
+        <!-- SpringBoot 2.0 多数据源JDBC配置 -->
+        <module>node06-boot-jdbc</module>
     </modules>
 
     <!-- 依赖版本管理 -->

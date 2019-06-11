@@ -12,8 +12,11 @@ SpringBoot2.0 基础案例(03)：配置系统全局异常映射处理</a><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483802&idx=1&sn=ef5f1b46945d4a0fa5e4b705591bc2d4&chksm=fdf45522ca83dc345a7034099d548c8269d79c56b857dcfc762b5dc6d768d13481fc3f8afeea&token=1671295027&lang=zh_CN#rd">
 SpringBoot2.0 基础案例(04)：定时任务和异步任务的使用方式</a><br/>
 
-<a href="">
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483806&idx=1&sn=caec9a25d6d3e47a3186b5c110ba7c48&chksm=fdf45526ca83dc303bbed238a02b87c68a8e93bc1c50940263cad108da7f336852fa2bf41c99&token=753772915&lang=zh_CN#rd">
 SpringBoot2.0 基础案例(05)：多个拦截器配置和使用场景</a><br/>
+
+<a href="">
+SpringBoot2.0 基础案例(06)：引入JdbcTemplate,和多数据源配置</a><br/>
 
 持续更新...<br/>
 
