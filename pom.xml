@@ -22,6 +22,8 @@
         <module>node05-boot-intercept</module>
         <!-- SpringBoot 2.0 多数据源JDBC配置 -->
         <module>node06-boot-jdbc</module>
+        <!-- SpringBoot 2.0 引入druid连接池 -->
+        <module>node07-boot-druid</module>
     </modules>
 
     <!-- 依赖版本管理 -->
