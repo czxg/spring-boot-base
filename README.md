@@ -18,7 +18,7 @@ SpringBoot2.0 基础案例(05)：多个拦截器配置和使用场景</a><br/>
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483810&idx=1&sn=99b9b7e515b040000ab6b670db679e2e&chksm=fdf4551aca83dc0cd94b574f7552c8b1a4b4c36beba001ab5146e00b855fb3b24156b0e5fe1e&token=1918524437&lang=zh_CN#rd">
 SpringBoot2.0 基础案例(06)：引入JdbcTemplate,和多数据源配置</a><br/>
 
-<a target="blank" href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483830&idx=1&sn=0db10b1476f1ea13b5167f17f1595a35&chksm=fdf4550eca83dc1865bd63f3fa927cc95cb2c5ac70e6f93cf9605ac21f4330ef238f55f8c61a&token=284651905&lang=zh_CN#rd">
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483830&idx=1&sn=0db10b1476f1ea13b5167f17f1595a35&chksm=fdf4550eca83dc1865bd63f3fa927cc95cb2c5ac70e6f93cf9605ac21f4330ef238f55f8c61a&token=284651905&lang=zh_CN#rd">
 SpringBoot2.0 基础案例(07)：集成Druid连接池,配置监控界面</a><br/>
 
 持续更新...<br/>
