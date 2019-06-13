@@ -24,6 +24,8 @@
         <module>node06-boot-jdbc</module>
         <!-- SpringBoot 2.0 引入druid连接池 -->
         <module>node07-boot-druid</module>
+        <!-- SpringBoot 2.0 引入Redis缓存服务 -->
+        <module>node08-boot-redis</module>
     </modules>
 
     <!-- 依赖版本管理 -->

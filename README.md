@@ -21,6 +21,9 @@ SpringBoot2.0 基础案例(06)：引入JdbcTemplate,和多数据源配置</a><br
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483830&idx=1&sn=0db10b1476f1ea13b5167f17f1595a35&chksm=fdf4550eca83dc1865bd63f3fa927cc95cb2c5ac70e6f93cf9605ac21f4330ef238f55f8c61a&token=284651905&lang=zh_CN#rd">
 SpringBoot2.0 基础案例(07)：集成Druid连接池,配置监控界面</a><br/>
 
+<a href="">
+SpringBoot2.0 基础案例(08)：集成Redis数据库,实现缓存管理</a><br/>
+
 持续更新...<br/>
 
 # 项目简介
