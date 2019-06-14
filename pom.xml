@@ -26,6 +26,8 @@
         <module>node07-boot-druid</module>
         <!-- SpringBoot 2.0 引入Redis缓存服务 -->
         <module>node08-boot-redis</module>
+        <!-- SpringBoot 2.0 引入JAP数据操作 -->
+        <module>node09-boot-jpa</module>
     </modules>
 
     <!-- 依赖版本管理 -->
