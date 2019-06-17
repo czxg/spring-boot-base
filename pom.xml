@@ -28,6 +28,8 @@
         <module>node08-boot-redis</module>
         <!-- SpringBoot 2.0 引入JAP数据操作 -->
         <module>node09-boot-jpa</module>
+        <!-- SpringBoot 2.0 整合Mybatis框架 -->
+        <module>node10-boot-mybatis</module>
     </modules>
 
     <!-- 依赖版本管理 -->
