@@ -27,7 +27,7 @@ SpringBoot2.0 基础案例(08)：集成Redis数据库,实现缓存管理</a><br/
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483840&idx=1&sn=f5f86033cc19859331bb120140051ce2&chksm=fdf45578ca83dc6eb40297b148001c1cb72820924fbfd7df8715979b6a6d6eb843f64de03b9e&token=935921302&lang=zh_CN#rd">
 SpringBoot2.0 基础案例(09)：集成JPA持久层框架,简化数据库操作</a><br/>
 
-<a href="">
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483846&idx=1&sn=1728b7ad15e59060f503542b73083cb6&chksm=fdf4557eca83dc68e870a674b9012aeab6270cad1715d2bd2375a43bfa88779ff92f81923637&token=197850378&lang=zh_CN#rd">
 SpringBoot2.0 基础案例(10)：整合Mybatis框架,集成PageHelper分页</a><br/>
 
 持续更新...<br/>
