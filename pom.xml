@@ -30,6 +30,8 @@
         <module>node09-boot-jpa</module>
         <!-- SpringBoot 2.0 整合Mybatis框架 -->
         <module>node10-boot-mybatis</module>
+        <!-- SpringBoot 2.0 配置AOP切面编程 -->
+        <module>node11-boot-aop</module>
     </modules>
 
     <!-- 依赖版本管理 -->
