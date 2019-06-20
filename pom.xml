@@ -32,6 +32,8 @@
         <module>node10-boot-mybatis</module>
         <!-- SpringBoot 2.0 配置AOP切面编程 -->
         <module>node11-boot-aop</module>
+        <!-- SpringBoot 2.0 事务管理 -->
+        <module>node12-boot-transaction</module>
     </modules>
 
     <!-- 依赖版本管理 -->
