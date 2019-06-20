@@ -34,6 +34,8 @@
         <module>node11-boot-aop</module>
         <!-- SpringBoot 2.0 事务管理 -->
         <module>node12-boot-transaction</module>
+        <!-- SpringBoot 2.0 Cache注解 -->
+        <module>node13-boot-cache</module>
     </modules>
 
     <!-- 依赖版本管理 -->
