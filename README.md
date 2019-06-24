@@ -39,8 +39,11 @@ SpringBoot2.0 基础案例(12)：基于转账案例,演示事务管理操作</a>
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483863&idx=1&sn=3e392e81f0d5c387d42888a7918e3a13&chksm=fdf4556fca83dc793863653e69dccd2e3f65bf9f28240a15dbe1798b405261ba802a8def0357&token=196805212&lang=zh_CN#rd">
 SpringBoot2.0 基础案例(13)：基于Cache注解模式,管理Redis缓存</a><br/>
 
-<a href="">
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483868&idx=1&sn=ef3b1fe7668c7a1065cb9910a12da66d&chksm=fdf45564ca83dc72243db18688b5f58033fd568c7b4c31cce6ff039070ac0fb05b40648d5345&token=1713479162&lang=zh_CN#rd">
 SpringBoot2.0 基础案例(14)：基于Yml配置的方式,实现文件上传逻辑</a><br/>
+
+<a href="">
+SpringBoot2.0 基础案例(15)：配置MongoDB数据库,实现增删改查操作</a><br/>
 
 持续更新...<br/>
 

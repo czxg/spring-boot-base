@@ -38,6 +38,8 @@
         <module>node13-boot-cache</module>
         <!-- SpringBoot 2.0 文件管理 -->
         <module>node14-boot-file</module>
+        <!-- SpringBoot 2.0 MongoDB数据库 -->
+        <module>node15-boot-mongodb</module>
     </modules>
 
     <!-- 依赖版本管理 -->
