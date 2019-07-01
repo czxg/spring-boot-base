@@ -42,8 +42,11 @@ SpringBoot2.0 基础案例(13)：基于Cache注解模式,管理Redis缓存</a><b
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483868&idx=1&sn=ef3b1fe7668c7a1065cb9910a12da66d&chksm=fdf45564ca83dc72243db18688b5f58033fd568c7b4c31cce6ff039070ac0fb05b40648d5345&token=1713479162&lang=zh_CN#rd">
 SpringBoot2.0 基础案例(14)：基于Yml配置的方式,实现文件上传逻辑</a><br/>
 
-<a href="">
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483872&idx=1&sn=4a90d09cea8950543a079bb68109d4a3&chksm=fdf45558ca83dc4eb99adaffffb113ab23c65b6aaaeba25da789a3c9219d56ad2c349709e8c8&token=272720738&lang=zh_CN#rd">
 SpringBoot2.0 基础案例(15)：配置MongoDB数据库,实现增删改查操作</a><br/>
+
+<a href="">
+SpringBoot2.0 基础案例(16)：配置Actuator组件,实现系统监控</a><br/>
 
 持续更新...<br/>
 

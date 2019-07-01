@@ -40,6 +40,8 @@
         <module>node14-boot-file</module>
         <!-- SpringBoot 2.0 MongoDB数据库 -->
         <module>node15-boot-mongodb</module>
+        <!-- SpringBoot 2.0 监控管理 -->
+        <module>node16-boot-actuator</module>
     </modules>
 
     <!-- 依赖版本管理 -->
