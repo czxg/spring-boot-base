@@ -42,6 +42,8 @@
         <module>node15-boot-mongodb</module>
         <!-- SpringBoot 2.0 监控管理 -->
         <module>node16-boot-actuator</module>
+        <!-- SpringBoot 2.0 打包运行 -->
+        <module>node17-boot-package</module>
     </modules>
 
     <!-- 依赖版本管理 -->
