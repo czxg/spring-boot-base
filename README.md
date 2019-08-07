@@ -62,7 +62,7 @@ spring-boot-base
 spring boot 2.0 基础教程，日志配置，数据源配置，事务管理等。
 
 ## 关于作者
-关注公众号：知了一笑<br/>
+【<b>公众号：知了一笑</b>】    【<b><a href="https://www.zhihu.com/people/cicadasmile/columns">知乎专栏</a></b>】<br/>
 <img width="255px" height="255px" src="https://avatars0.githubusercontent.com/u/50793885?s=460&v=4"/><br/>
 
 ## 项目推荐
